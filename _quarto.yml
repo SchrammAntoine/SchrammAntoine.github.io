@@ -2,17 +2,34 @@ project:
   type: website
 
 website:
-  title: "MyPortfolio"
+  title: "Antoine Schramm"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+
+      - href: expertise.qmd
+        text: Skills
+
+      - href: publications.qmd
+        text: Publications
+
+      - href: ressources.qmd
+        text: Ressources
+
+    right:
+      - icon: github
+        href: https://github.com/SchrammAntoine
+      - icon: linkedin
+        href: https://www.linkedin.com/in/antoine-schramm
+      - icon: envelope
+        href: mailto:schrammantoine@gmail.com
 
 format:
   html:
+    include-after-body: js/scripts.js
     theme:
-      - cosmo
+      - sandstone
       - brand
     css: styles.css
     toc: true

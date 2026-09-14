@@ -1,0 +1,48 @@
+---
+title: "Publications"
+---
+
+## Manuscripts in preparation
+
+::: {.publication-block}
+<u>Schramm A</u>, Martiny V, Lotfi S, Meyer C, Lebars I, Ennifar E.  
+**TDP-43 unwinds STMN2 cryptic exon 2a UG-rich stem-loop upon binding.**  
+*In preparation* (2026).
+
+Sabbah A, Maucotel J, Roche B, Erhardt M, Debande L, Chong CE, <u>Schramm A</u>, Fraering J, Chicher J, Ennifar E, Baker KS, Marteyn BS  
+**SigA forms amyloid fibrils that associate with the colicin ColE1 to support the antibacterial activity of Shigella sonnei before colonization.**  
+*bioRxiv* 2026
+
+:::
+---
+
+## Peer-reviewed publications
+::: {.publication-block}
+Mitteregger C, Bereiter R, <u>Schramm A</u>, Ennifar E, Kreutz C, Micura R.  
+**1-Deazainosine: impact on RNA structure and role in exploring ribozyme catalysis.**  
+*Chem Sci*. 2026. 
+
+Bloyet LM, <u>Schramm A</u>, Lazert C, Raynal B, Hologne M, Walker O, Longhi S, Gerlier D.  
+**Regulation of measles virus gene expression by P protein coiled-coil properties.**  
+*Sci Adv*. 2019
+
+<u>Schramm A</u>, Lieutaud P, Gianni S, Longhi S, Bignon C.  
+**InSiDDe: A Server for Designing Artificial Disordered Proteins.**   
+*Int J Mol Sci*. 2017
+
+Zhang Y, Launay H, <u>Schramm A</u>, Lebrun R, Gontero B.  
+**Exploring intrinsically disordered proteins in Chlamydomonas reinhardtii.**  
+*Sci Rep*. 2018
+
+Thieulin-Pardo G, <u>Schramm A</u>, Lignon S, Lebrun R, Kojadinovic M, Gontero B.  
+**The intriguing CP12-like tail of adenylate kinase 3 from Chlamydomonas reinhardtii.**  
+*FEBS J*. 2016
+:::
+---
+
+## Other publications
+::: {.publication-block}
+Piovesan D, Tabaro F, Mičetić I, Necci M, Quaglia F, Oldfield CJ, Aspromonte MC, Davey NE, Davidović R, Dosztányi Z, Elofsson A, Gasparini A, Hatos A, Kajava AV, Kalmar L, Leonardi E, Lazar T, Macedo-Ribeiro S, Macossay-Castillo M, Meszaros A, Minervini G, Murvai N, Pujols J, Roche DB, Salladini E, Schad E, <u>Schramm A</u>, Szabo B, Tantos A, Tonello F, Tsirigos KD, Veljković N, Ventura S, Vranken W, Warholm P, Uversky VN, Dunker AK, Longhi S, Tompa P, Tosatto SC.  
+**DisProt 7.0: a major update of the database of disordered proteins.**  
+*Nucleic Acids Res*. 2017
+:::

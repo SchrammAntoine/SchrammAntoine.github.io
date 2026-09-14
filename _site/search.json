@@ -1,16 +1,107 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "About this site"
+    "text": "Schramm A, Martiny V, Lotfi S, Meyer C, Lebars I, Ennifar E.\nTDP-43 unwinds STMN2 cryptic exon 2a UG-rich stem-loop upon binding.\nIn preparation (2026).\nSabbah A, Maucotel J, Roche B, Erhardt M, Debande L, Chong CE, Schramm A, Fraering J, Chicher J, Ennifar E, Baker KS, Marteyn BS\nSigA forms amyloid fibrils that associate with the colicin ColE1 to support the antibacterial activity of Shigella sonnei before colonization.\nbioRxiv 2026"
+  },
+  {
+    "objectID": "publications.html#manuscripts-in-preparation",
+    "href": "publications.html#manuscripts-in-preparation",
+    "title": "Publications",
+    "section": "",
+    "text": "Schramm A, Martiny V, Lotfi S, Meyer C, Lebars I, Ennifar E.\nTDP-43 unwinds STMN2 cryptic exon 2a UG-rich stem-loop upon binding.\nIn preparation (2026).\nSabbah A, Maucotel J, Roche B, Erhardt M, Debande L, Chong CE, Schramm A, Fraering J, Chicher J, Ennifar E, Baker KS, Marteyn BS\nSigA forms amyloid fibrils that associate with the colicin ColE1 to support the antibacterial activity of Shigella sonnei before colonization.\nbioRxiv 2026"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
+    "title": "Publications",
+    "section": "Peer-reviewed publications",
+    "text": "Peer-reviewed publications\n\nMitteregger C, Bereiter R, Schramm A, Ennifar E, Kreutz C, Micura R.\n1-Deazainosine: impact on RNA structure and role in exploring ribozyme catalysis.\nChem Sci. 2026.\nBloyet LM, Schramm A, Lazert C, Raynal B, Hologne M, Walker O, Longhi S, Gerlier D.\nRegulation of measles virus gene expression by P protein coiled-coil properties.\nSci Adv. 2019\nSchramm A, Lieutaud P, Gianni S, Longhi S, Bignon C.\nInSiDDe: A Server for Designing Artificial Disordered Proteins.\nInt J Mol Sci. 2017\nZhang Y, Launay H, Schramm A, Lebrun R, Gontero B.\nExploring intrinsically disordered proteins in Chlamydomonas reinhardtii.\nSci Rep. 2018\nThieulin-Pardo G, Schramm A, Lignon S, Lebrun R, Kojadinovic M, Gontero B.\nThe intriguing CP12-like tail of adenylate kinase 3 from Chlamydomonas reinhardtii.\nFEBS J. 2016"
+  },
+  {
+    "objectID": "publications.html#other-publications",
+    "href": "publications.html#other-publications",
+    "title": "Publications",
+    "section": "Other publications",
+    "text": "Other publications\n\nPiovesan D, Tabaro F, Mičetić I, Necci M, Quaglia F, Oldfield CJ, Aspromonte MC, Davey NE, Davidović R, Dosztányi Z, Elofsson A, Gasparini A, Hatos A, Kajava AV, Kalmar L, Leonardi E, Lazar T, Macedo-Ribeiro S, Macossay-Castillo M, Meszaros A, Minervini G, Murvai N, Pujols J, Roche DB, Salladini E, Schad E, Schramm A, Szabo B, Tantos A, Tonello F, Tsirigos KD, Veljković N, Ventura S, Vranken W, Warholm P, Uversky VN, Dunker AK, Longhi S, Tompa P, Tosatto SC.\nDisProt 7.0: a major update of the database of disordered proteins.\nNucleic Acids Res. 2017"
+  },
+  {
+    "objectID": "expertise.html",
+    "href": "expertise.html",
+    "title": "Skills",
+    "section": "",
+    "text": "Beyond project management, I am also directly involved in the execution of scientific experiments in the laboratory. This hands-on experience gives me a strong understanding of the practical aspects behind each technique and method, including their technical challenges, time and resource requirements, and how they can be combined with complementary approaches.\nWorking across the full workflow, from upstream process development (USP) and downstream process development (DSP) to analytical characterization, has given me substantial experience in the prerequisites for a smooth and streamlined R&D process. I understand how each technique feeds into the next, which parameters are critical to monitor, and which quality criteria need to be maintained throughout the workflow to ensure reliable and actionable results.\nThis combination of project management and hands-on scientific expertise allows me to anticipate technical constraints, coordinate activities effectively, and make informed decisions throughout the development process."
+  },
+  {
+    "objectID": "expertise.html#upstream-process-molecular-biology",
+    "href": "expertise.html#upstream-process-molecular-biology",
+    "title": "Skills",
+    "section": "Upstream Process & Molecular Biology",
+    "text": "Upstream Process & Molecular Biology\nI have frequently started projects at the gene level, developing the molecular biology workflows required to generate and engineer expression constructs. Thus, I am highly experienced with a range of molecular biology approaches, including PCR-based cloning such as QuickChange and Around-the-Horn, as well as recombination-based cloning approaches including Gibson Assembly and Gateway cloning. I am also proficient in agarose gel electrophoresis for quality control and the assessment of DNA fragments throughout the different stages of construct engineering.\nThe resulting constructs are used for the heterologous expression of target proteins. I apply design of experiments (DoE) and statistical analysis to systematically investigate and optimize culture conditions, with the aim of improving protein yield and productivity. My experience covers the progression from small-scale expression screening to larger-scale production, with process conditions adapted to the quantity and quality requirements of subsequent purification and characterization steps."
+  },
+  {
+    "objectID": "expertise.html#downstream-process",
+    "href": "expertise.html#downstream-process",
+    "title": "Skills",
+    "section": "Downstream Process",
+    "text": "Downstream Process\nMy experience covers a broad range of separation and purification strategies for isolating proteins of interest from complex biological matrices. I have hands-on experience with approaches ranging from centrifugation and filtration to selective precipitation and chromatographic purification, allowing me to design purification workflows adapted to the properties of the target protein and the characteristics of the starting material.\nThe matrices I have worked with have varied substantially across projects. I am particularly experienced in the purification of recombinant proteins produced in bacterial expression systems such as E. coli, as well as in protein extraction and purification from yeast biomass. I have also worked with less conventional biological matrices, including rat urine, requiring adaptation of extraction and purification strategies to the specific properties of the sample.\nThe proteins I have purified span a wide range of applications and molecular properties. These include enzymes used in laboratory biotechnology, such as Taq polymerase, Pfu polymerase, T7 RNA polymerase, and TEV protease, as well as human proteins investigated as potential targets in early-stage drug discovery programs. I have also worked with viral proteins from pathogens such as Measles and Hendra viruses.\nThis diversity of targets and starting materials has given me strong experience in designing purification strategies around the biochemical and biophysical properties of the protein of interest. I routinely integrate complementary chromatographic techniques into purification workflows, including affinity chromatography (e.g. nickel and Protein A), ion-exchange chromatography, and size-exclusion chromatography. I am comfortable adapting the sequence and operating conditions of these purification steps to balance purity, recovery, yield, and downstream requirements."
+  },
+  {
+    "objectID": "expertise.html#rna-production",
+    "href": "expertise.html#rna-production",
+    "title": "Skills",
+    "section": "RNA Production",
+    "text": "RNA Production\n\nMy expertise spans the complete RNA production workflow, from in-vitro transcription and reaction optimization to RNA extraction, chromatographic purification, and preparation for downstream biophysical studies.\nI perform in-vitro transcription using both commercial T7 RNA polymerase and recombinant T7 polymerase I produce in-house. I am experienced in optimizing the different stages of the production process, including DNA template preparation by PCR amplification or plasmid linearization, small-scale screening of transcription conditions, and subsequent scale-up to preparative reaction volumes. This enables the production of the quantities of RNA required for demanding downstream applications, including structural and biophysical studies and drug discovery programs.\nMy experience covers RNA extraction using phenol/chloroform phase separation, followed by purification using either polyacrylamide gel electrophoresis or chromatographic approaches. I routinely perform two complementary preparative chromatography workflows: denaturing ion-exchange chromatography, using urea and/or thermal denaturation, and native size-exclusion chromatography following RNA refolding by thermal annealing.\nThis end-to-end experience allows me to adapt RNA production strategies to the requirements of each project, from small-scale method development to preparative production of highly purified RNA for downstream structural and biophysical characterization."
+  },
+  {
+    "objectID": "expertise.html#analytical-characterization",
+    "href": "expertise.html#analytical-characterization",
+    "title": "Skills",
+    "section": "Analytical Characterization",
+    "text": "Analytical Characterization\nMy experience covers a broad range of analytical and biophysical techniques for characterizing proteins and RNA. I use complementary approaches to assess sample quality, stability, structural properties, and/or molecular interactions. I select analytical methods according to the specific requirements of the target molecule and the objectives of the project.\nIn biophysics, I have experience with stability characterization of both proteins and RNA using approaches including UV melting, differential scanning calorimetry (DSC), thermal shift assays (TSA/DSF), as well as structural characterization using circular dichroism (CD), small-angle X-ray scattering (SAXS) and chemical probing (for RNA). I also perform interaction studies, using techniques such as biolayer interferometry (BLI), surface plasmon resonance (SPR), and/or isothermal titration calorimetry (ITC).\nMy analytical biochemistry experience includes HPLC-based and column chromatography approaches, including size-exclusion (SEC), ion-exchange (IEX), and reverse-phase (RP) chromatography. I am also experienced with a range of electrophoretic methods, including SDS-PAGE, capillary electrophoresis (CE). Furthermore, systematically implement mass spectrometry analysis as part of my protein characterization workflows. Complementary spectroscopic techniques, including dynamic light scattering (DLS), and static light scattering (SLS, SEC-MALS), provide additional information on molecular properties and sample quality.\nThis combination of analytical biochemistry and biophysical expertise allows me to cross-validate results using orthogonal techniques, identify potential issues early, and generate the analytical information required to guide purification, process development, and downstream structural or functional studies."
+  },
+  {
+    "objectID": "expertise.html#structural-characterization",
+    "href": "expertise.html#structural-characterization",
+    "title": "Skills",
+    "section": "Structural Characterization",
+    "text": "Structural Characterization\n\nI have extensive hands-on experience across the X-ray crystallography workflow, from crystallization and crystal handling to synchrotron data collection and structure determination.\nI have extensive experience with the crystallization of both proteins and RNA, using a range of experimental setups including hanging-drop crystallization with Linbro plates and sitting-drop approaches with various plate formats. I am comfortable both preparing crystallization screens manually and operating automated liquid-handling platforms such as Mosquito and DragonFly. My experience covers the full crystallization process, from initial broad screening with commercial screening kits and identification of first hits to systematic optimization of crystal size, morphology, and diffraction quality.\nI also handle crystal harvesting and cryoprotection, including preparation for liquid-nitrogen storage and transport. I have experience with crystal freezing using both liquid nitrogen and liquid ethane.\nFor diffraction experiments, I have extensive experience working with synchrotron X-ray sources. Although many experiments are now conducted remotely, I have had the opportunity to perform on-site experiments at SOLEIL, ESRF, and SLS. Following data collection, I am experienced in the processing and analysis of diffraction data for subsequent atomic-resolution structure determination and model building. My computational experience includes the XDS suite for diffraction-image processing, as well as CCP4 and PHENIX for crystallographic analysis, structure determination, and model building."
+  },
+  {
+    "objectID": "ressources.html",
+    "href": "ressources.html",
+    "title": "Ressources",
+    "section": "",
+    "text": "this page is still in construction\nAlongside my project management activities, I have developed a number of tools to support and streamline my work. While these projects are not associated with formal publications, I have made several of them freely available to the scientific community.\nThe tools presented below address practical needs ranging from biological sequence analysis and exploration to experimental data management and processing."
+  },
+  {
+    "objectID": "ressources.html#sequence-autocorrelation",
+    "href": "ressources.html#sequence-autocorrelation",
+    "title": "Ressources",
+    "section": "Sequence Autocorrelation",
+    "text": "Sequence Autocorrelation\n\nThis tool provides a simple approach for identifying repeated motifs within biological sequences. The script converts a sequence from a FASTA file into an autocorrelation matrix, providing a visual representation of sequence regions that share recurring patterns.\nThe example shows the output for a region of the UNC13A gene, highlighting several regions made from a repeated motif.\nMore details are available in the dedicated repository."
+  },
+  {
+    "objectID": "ressources.html#data-file-format-converter",
+    "href": "ressources.html#data-file-format-converter",
+    "title": "Ressources",
+    "section": "Data file format converter",
+    "text": "Data file format converter\n\nThis program is a lightweight application designed to parse data files generated in biology laboratories. Through a simple graphical user interface, it enables users to quickly retrieve and convert raw experimental data into human-readable formats suitable for further analysis and visualization in tools such as Excel or GraphPad Prism.\nThe application currently supports sequencing data generated using the ABIF (Applied Biosystems) file format, commonly used for Sanger sequencing.\nIts modular architecture makes the application straightforward to extend, allowing new data formats and parsing capabilities to be added as needed.\nA dedicated GitHub repository provides further details and access to the project."
+  },
+  {
+    "objectID": "ressources.html#pymol-plugins",
+    "href": "ressources.html#pymol-plugins",
+    "title": "Ressources",
+    "section": "Pymol Plugins",
+    "text": "Pymol Plugins\nI’ve made multiple small and easy to use plugins for the structure vizualization program Pymol. These plugins are available on Github.\n\n\n\n\n\n\n\nPlugin\nDescription\n\n\n\n\nafgroups\nAutomatically organize AlphaFold models belonging to the same prediction into PyMOL groups.\n\n\nfindseq\nSearch protein sequences in PyMOL objects using Python regular expressions and create selections for each match.\n\n\nmalign\nPerform structural alignment of multiple mobile objects onto a common reference object."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "MyPortfolio",
+    "title": "About Me",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a scientist with over 6 years of experience managing R&D projects in structural biology, biochemistry, and biophysics.\nI combine scientific project management with hands-on experimental expertise, taking projects from initial concept and strategic planning through experimental execution and data interpretation. I am particularly experienced in designing and coordinating projects that connect molecular biology, protein production, biophysical characterization, and structural analysis.\nA typical project I manage follows a gene-to-structure workflow, integrating upstream and downstream process development, analytical characterization, and structural characterization. This requires coordinating multidisciplinary activities, making technical and strategic decisions, and ensuring that experimental work remains aligned with the overall objectives of the project.\nI am particularly motivated by:\n\ntranslating complex scientific questions into structured R&D strategies\ncombining experimental and computational approaches to solve challenging problems\nbridging project strategy and technical execution\nworking across disciplines and collaborating with multidisciplinary teams"
   }
 ]

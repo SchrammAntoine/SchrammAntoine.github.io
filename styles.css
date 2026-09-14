@@ -1,1 +1,84 @@
 /* css styles */
+
+
+/* Publication */
+
+.publication-block p {
+  text-indent: 0;
+  line-height: 1.2;
+  margin-bottom: 2.0rem;
+}
+
+
+
+/* image insert */
+.profile-photo {
+  float: left;
+  width: 35%;
+  margin: 0 2.0rem 1.5rem 0;
+  border-radius: 12px;
+  object-fit: cover;
+}
+
+.insert_left {
+  float: left;
+  width: 35%;
+  margin: 0 3rem 1.5rem 0;
+  border-radius: 12px;
+  object-fit: cover;
+}
+
+/* Profile image */
+.insert_right {
+  float: right;
+  width: 35%;
+  margin: 0 0 1.5rem 3rem;
+  border-radius: 12px;
+  object-fit: cover;
+}
+
+/* Profile image */
+.insert_undefined {
+  float: none;
+  width: 35%;
+  margin: 0 3rem 1.5rem 0;
+  border-radius: 12px;
+  object-fit: cover;
+}
+
+p {
+  text-align: justify;
+  line-height: 1.4;
+  text-indent: 2em;
+}
+
+
+/* Main heading */
+.bio h1 {
+  margin-bottom: 0.2rem;
+}
+
+/* Subtitle / role */
+.bio h2 {
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #666;
+  margin-top: 0;
+  margin-bottom: 1.2rem;
+}
+
+/* Body text */
+.bio p {
+  line-height: 1.6;
+  text-align: justify;
+  text-indent: 2em;
+}
+
+/* Lists */
+.bio ul {
+  margin-top: 0.5rem;
+}
+
+.bio li {
+  margin-bottom: 0.4rem;
+}

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About – MyPortfolio</title>
+<title>Ressources – Antoine Schramm</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-9bef2c2a71edb3cefa74dd00ef9637cf.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-990093dc1d7430b101e922f670fcbf3c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">MyPortfolio</span>
+    <span class="navbar-title">Antoine Schramm</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -97,8 +97,33 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
-<span class="menu-text">About</span></a>
+    <a class="nav-link" href="./expertise.html"> 
+<span class="menu-text">Skills</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./publications.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./ressources.html" aria-current="page"> 
+<span class="menu-text">Ressources</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/SchrammAntoine"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/antoine-schramm"> <i class="bi bi-linkedin" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:schrammantoine@gmail.com"> <i class="bi bi-envelope" role="img">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -111,15 +136,23 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#sequence-autocorrelation" id="toc-sequence-autocorrelation" class="nav-link active" data-scroll-target="#sequence-autocorrelation">Sequence Autocorrelation</a></li>
+  <li><a href="#data-file-format-converter" id="toc-data-file-format-converter" class="nav-link" data-scroll-target="#data-file-format-converter">Data file format converter</a></li>
+  <li><a href="#pymol-plugins" id="toc-pymol-plugins" class="nav-link" data-scroll-target="#pymol-plugins">Pymol Plugins</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About</h1>
+<h1 class="title">Ressources</h1>
 </div>
 
 
@@ -136,11 +169,65 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>About this site</p>
+<p><em>this page is still in construction</em></p>
+<p>Alongside my project management activities, I have developed a number of tools to support and streamline my work. While these projects are not associated with formal publications, I have made several of them freely available to the scientific community.</p>
+<p>The tools presented below address practical needs ranging from biological sequence analysis and exploration to experimental data management and processing.</p>
+<section id="sequence-autocorrelation" class="level2">
+<h2 class="anchored" data-anchor-id="sequence-autocorrelation">Sequence Autocorrelation</h2>
+<p><img src="images/AutoCorr.png" class="insert_left img-fluid"></p>
+<p>This tool provides a simple approach for identifying repeated motifs within biological sequences. The script converts a sequence from a FASTA file into an autocorrelation matrix, providing a visual representation of sequence regions that share recurring patterns.</p>
+<p>The example shows the output for a region of the UNC13A gene, highlighting several regions made from a repeated motif.</p>
+<p>More details are available in the dedicated <a href="https://github.com/SchrammAntoine/SequenceAutocorrelation/blob/main/README.md">repository</a>.</p>
+</section>
+<section id="data-file-format-converter" class="level2">
+<h2 class="anchored" data-anchor-id="data-file-format-converter">Data file format converter</h2>
+<p><img src="images/DatafileParserApp.png" class="insert_right img-fluid"></p>
+<p>This program is a lightweight application designed to parse data files generated in biology laboratories. Through a simple graphical user interface, it enables users to quickly retrieve and convert raw experimental data into human-readable formats suitable for further analysis and visualization in tools such as Excel or GraphPad Prism.</p>
+<p>The application currently supports sequencing data generated using the ABIF (Applied Biosystems) file format, commonly used for Sanger sequencing.</p>
+<p>Its modular architecture makes the application straightforward to extend, allowing new data formats and parsing capabilities to be added as needed.</p>
+<p>A dedicated GitHub <a href="https://github.com/SchrammAntoine/BiolabDatafileParsersApp/blob/main/README.md">repository</a> provides further details and access to the project.</p>
+</section>
+<section id="pymol-plugins" class="level2">
+<h2 class="anchored" data-anchor-id="pymol-plugins">Pymol Plugins</h2>
+<p>I’ve made multiple small and easy to use plugins for the structure vizualization program Pymol. These plugins are available on <a href="https://github.com/SchrammAntoine/PymolPlugins">Github</a>.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 8%">
+<col style="width: 91%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Plugin</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>afgroups</strong></td>
+<td>Automatically organize AlphaFold models belonging to the same prediction into PyMOL groups.</td>
+</tr>
+<tr class="even">
+<td><strong>findseq</strong></td>
+<td>Search protein sequences in PyMOL objects using Python regular expressions and create selections for each match.</td>
+</tr>
+<tr class="odd">
+<td><strong>malign</strong></td>
+<td>Perform structural alignment of multiple mobile objects onto a common reference object.</td>
+</tr>
+</tbody>
+</table>
 
 
+</section>
 
 </main> <!-- /main -->
+<script>
+function copyToClipboard(text) {
+  navigator.clipboard.writeText(text).then(() => {
+    alert("DOI copied to clipboard");
+  });
+}
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
