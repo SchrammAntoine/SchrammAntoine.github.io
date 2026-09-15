@@ -2,6 +2,11 @@
 title: "Publications"
 ---
 
+I have published my research in a range of high-impact international scientific journals, reflecting work conducted across diverse research projects and collaborations.
+
+An exhaustive list of my publications is provided below. For a concise overview, you can also download a single-page PDF publication list.  
+[download publication list](documents/AntoineSchramm_PublicationList.pdf)
+
 ## Manuscripts in preparation
 
 ::: {.publication-block}

@@ -16,3 +16,9 @@ I am particularly motivated by:
 - combining experimental and computational approaches to solve challenging problems
 - bridging project strategy and technical execution
 - working across disciplines and collaborating with multidisciplinary teams
+
+---
+
+For a concise overview of my professional experience and expertise, my CV is available below.
+
+[Download my CV](documents/AntoineSchramm_SeniorScientist_CV.pdf)
